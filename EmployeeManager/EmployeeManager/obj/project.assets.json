@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\psych\\source\\repos\\University\\EmployeeManager\\EmployeeManager\\EmployeeManager.csproj",
+      "projectUniqueName": "C:\\Users\\psych\\source\\repos\\Activities\\EmployeeManager\\EmployeeManager\\EmployeeManager.csproj",
       "projectName": "EmployeeManager",
-      "projectPath": "C:\\Users\\psych\\source\\repos\\University\\EmployeeManager\\EmployeeManager\\EmployeeManager.csproj",
+      "projectPath": "C:\\Users\\psych\\source\\repos\\Activities\\EmployeeManager\\EmployeeManager\\EmployeeManager.csproj",
       "packagesPath": "C:\\Users\\psych\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\psych\\source\\repos\\University\\EmployeeManager\\EmployeeManager\\obj\\",
+      "outputPath": "C:\\Users\\psych\\source\\repos\\Activities\\EmployeeManager\\EmployeeManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\psych\\AppData\\Roaming\\NuGet\\NuGet.Config",
