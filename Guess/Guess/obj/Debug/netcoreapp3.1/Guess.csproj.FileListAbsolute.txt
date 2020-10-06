@@ -1,0 +1,11 @@
+C:\Users\psych\source\repos\Guess\Guess\bin\Debug\netcoreapp3.1\Guess.exe
+C:\Users\psych\source\repos\Guess\Guess\bin\Debug\netcoreapp3.1\Guess.deps.json
+C:\Users\psych\source\repos\Guess\Guess\bin\Debug\netcoreapp3.1\Guess.runtimeconfig.json
+C:\Users\psych\source\repos\Guess\Guess\bin\Debug\netcoreapp3.1\Guess.runtimeconfig.dev.json
+C:\Users\psych\source\repos\Guess\Guess\bin\Debug\netcoreapp3.1\Guess.dll
+C:\Users\psych\source\repos\Guess\Guess\bin\Debug\netcoreapp3.1\Guess.pdb
+C:\Users\psych\source\repos\Guess\Guess\obj\Debug\netcoreapp3.1\Guess.csprojAssemblyReference.cache
+C:\Users\psych\source\repos\Guess\Guess\obj\Debug\netcoreapp3.1\Guess.AssemblyInfoInputs.cache
+C:\Users\psych\source\repos\Guess\Guess\obj\Debug\netcoreapp3.1\Guess.AssemblyInfo.cs
+C:\Users\psych\source\repos\Guess\Guess\obj\Debug\netcoreapp3.1\Guess.dll
+C:\Users\psych\source\repos\Guess\Guess\obj\Debug\netcoreapp3.1\Guess.pdb
